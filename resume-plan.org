@@ -1,0 +1,74 @@
+* Content
+  - Probably won't have education. No one cares about high school. Is it worth it to indicate that I have
+three years of a degree? How to express that without making people think that I'm looking for an
+internship and not full time?
+  - It might be obvious because I have several internships that I've been in school.
+  - I could also explain this in my cover letter.
+
+  - If not education, perhaps:
+
+** Work experience
+   - Far and away the biggest and most impressive section
+
+*** Mock
+    Projetech (3 co-op terms, 1 year total)
+    - Develop and eventually manage a complex internal automation tool written in Clojure
+    - Assist with requirements development and sprint planning
+    - Set up servers and deploy fortnightly releases
+    - Pair program to develop features and write tests
+    - Find and quickly (mitigate|resolve) bugs in production
+
+    UC College Of Business (IT Helpdesk Consultant, Aug 2014 - Dec 2016)
+    - Assisted faculty and students with technology issues
+    - Installed operating systems and necessary software on college computers.
+
+    Siemens PLM Software (co-op, Aug. 2015 - Dec. 2015)
+    - Developed an internal java application to assist QA testing
+    - Became familiar with a large existing codebase
+
+    AFRL/DSRC (internships, summers 2014 & 2015)
+    - Attained DoD Secret Clearance valid until 2025 (maybe only include this on govt companies)
+    - Worked on 2 separate web development projects
+    - Gave technical reports on projects
+
+    AFRL (5-week Internship)
+    - Developed an Android app for internal use with another intern
+
+** Technical Skills
+   - I don't like the idea of having these, because they are all going to be covered in the other
+sections, but it might be a good inclusion for readers who give resumes a quick glance because they don't
+have a lot of time.
+*** Mock1
+    Technical Skills
+    - Proficient (for a junior dev): Clojure(script), Emacs, Linux, Git, HTML, CSS, Java, SQL.
+    - Dabbled in: Python, Android, JavaScript, bash, C++
+
+*** Mock2
+    Technical Skills (most proficient -> least)
+    Clojure(script), Git, HTML, Emacs, Linux, Java, CSS, SQL, Android, JavaScript, Python, C++, bash
+
+** Projects / Open Source
+   - I think this is a good inclusion. I have 3 solid things to talk about. They could be good
+summaries to get people to go to my github profile.
+
+*** Mock
+    Arcane Survival Minecraft Server
+    - Founded in 2014
+    - Develop custom java plugins
+    - Develop and maintain server website: www.arcaneminecraft.com
+
+    cmmge
+    - Miscellaneous algorithmic music composition experiments
+
+    Car Ear Training
+    - An Android app to help musicians learn note intervals while driving.
+
+
+* Layout
+  Top thing containing name, github, phone, and email
+  I like the look of having headings on the left like this
+  https://www.sharelatex.com/templates/cv-or-resume/kjh-vita
+
+  Then is probs work exp, then projects, then tech skills
+
+  Giving up on latex. I don't want to invest hours learning it just to create a resume.
